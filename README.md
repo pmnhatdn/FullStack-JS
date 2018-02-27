@@ -4,11 +4,13 @@ This is to review all of the concepts, best practices, tips with regards to JS a
 **Content**
 
 I. **Preparation:**
-1. Define what to be reviewed/learned
 
-2. Define the definition of DONE
+1. Define what to be reviewed/learned :+1:
+
+2. Define the definition of DONE :running:
 
 II. **Review Items:**
+
 1. [Place Holder] HTML 5 :running:
 
 2. [Place Holder] CSS 3 :running:
