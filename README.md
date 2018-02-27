@@ -1,5 +1,5 @@
 # JS-Review
-This is to review all of the concept, best practices, tips with regards to JS and related technologies.
+This is to review all of the concepts, best practices, tips with regards to JS and related technologies.
 
 **Content**
 
