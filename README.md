@@ -31,7 +31,7 @@ II. **Review Items:**
 
 11. [Place Holder] Testing, Building & deployment
 
-12. [Place Holder] Development Process/Methods
+~12. [Place Holder] Development Process/Methods~ **Moved to another project**
 
 **Advance**
 
