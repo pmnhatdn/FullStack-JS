@@ -23,18 +23,20 @@ II. **Review Items:**
 
 7. [Place Holder] Mongo DB
 
-8. [Place Holder] Testing, Building & deployment
+8. [Place Holder] Restful Webservices
 
-9. [Place Holder] Development Process/Methods
+9. [Place Holder] Principle Design
 
-10. [Place Holder] Restful Webservices
+10. [Place Holder] Cloud Computing
 
-11. [Place Holder] Principle Design
+11. [Place Holder] Testing, Building & deployment
 
-12. [Place Holder] Microservice
+12. [Place Holder] Development Process/Methods
 
-13. [Place Holder] Server Side Rendering
+**Advance**
+13. [Place Holder] Microservice
 
-14. [Place Holder] Progressive Web App
+14. [Place Holder] Server Side Rendering
 
-15. [Place Holder] Cloud Computing
+15. [Place Holder] Progressive Web App
+
