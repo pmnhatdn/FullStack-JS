@@ -9,9 +9,9 @@ I. **Preparation:**
 2. Define the definition of DONE
 
 II. **Review Items:**
-1. [Place Holder] HTML 5
+1. [Place Holder] HTML 5 :running:
 
-2. [Place Holder] CSS 3
+2. [Place Holder] CSS 3 :running:
 
 3. [Place Holder] Angular 5
 
