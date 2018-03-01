@@ -11,6 +11,8 @@ I. **Preparation:**
 
 II. **Review Items:**
 
+0. JS Core Concepts.
+
 1. [Place Holder] HTML 5 :running:
 
 2. [Place Holder] CSS 3 :running:
